@@ -5,3 +5,4 @@ Pink is another color
 blue is the fifth color
 Violet is the sixth color
 Indigo is the seventh color
+black is the last color
